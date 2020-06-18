@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://https://colab.research.google.com/github/shrebox/Fake-News-Detection/blob/master/Fake_News_Detection_LIARv2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shrebox/Fake-News-Detection/blob/master/Fake_News_Detection_LIARv2.ipynb)
 
 # Fake-News-Detection
 
