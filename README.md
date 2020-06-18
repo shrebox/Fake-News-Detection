@@ -1,9 +1,12 @@
 # Fake-News-Detection
 
 Refer to this paper: ​https://aclweb.org/anthology/W18-5513​.
+
 ● Dataset download link: ​https://github.com/Tariq60/LIAR-PLUS/tree/master/dataset
+
 ● An earlier version of the dataset appeared in this paper:
 https://arxiv.org/pdf/1705.00648.pdf​.
+
 ● Earlier Dataset can be downloaded from:
 ​https://github.com/thiagorainmaker77/liar_dataset​.
 
