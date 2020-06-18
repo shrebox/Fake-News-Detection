@@ -28,7 +28,7 @@ two tasks. You are free to use any ideas you think will be suitable for this dat
 example, you may plot graphs for gaining insights about the features or clean/re-organise
 the data for feature extraction.
 
-*Code file: Fake_News_Detection_LIARv2.ipynb
+*Code file*: Fake_News_Detection_LIARv2.ipynb
 
-*Analysis Report: Report_Fake_News_Detection_NUS.pdf
+*Analysis Report*: Report_Fake_News_Detection_NUS.pdf
 
