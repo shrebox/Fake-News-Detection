@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/]
+
 # Fake-News-Detection
 
 Refer to this paper: ​https://aclweb.org/anthology/W18-5513​.
