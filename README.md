@@ -25,3 +25,8 @@ dataset and get the highest possible accuracy. You can choose different classifi
 two tasks. You are free to use any ideas you think will be suitable for this dataset. For
 example, you may plot graphs for gaining insights about the features or clean/re-organise
 the data for feature extraction.
+
+Code file: Fake_News_Detection_LIARv2.ipynb
+
+Analysis Report: Report_Fake_News_Detection_NUS.pdf
+
