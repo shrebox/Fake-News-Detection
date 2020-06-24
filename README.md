@@ -1,4 +1,4 @@
-Checkout the code [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shrebox/Fake-News-Detection/blob/master/Fake_News_Detection_LIARv2.ipynb)
+Checkout the code: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shrebox/Fake-News-Detection/blob/master/Fake_News_Detection_LIARv2.ipynb)
 
 Detailed analysis: [Report_Fake_News_Detection_NUS.pdf](https://github.com/shrebox/Fake-News-Detection/blob/master/Report_Fake_News_Detection_NUS.pdf)
 
